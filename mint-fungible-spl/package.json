@@ -1,0 +1,16 @@
+{
+  "name": "mint-fungible-spl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "tslib": "^2.5.0"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.18.3",
+    "@metaplex-foundation/mpl-token-metadata": "^2.9.1",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.75.0"
+  }
+}
